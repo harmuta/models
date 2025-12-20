@@ -12,6 +12,9 @@ AddSimpleModel(-1, 19475, -1010, "metroint2.dff", "metroint.txd");
 AddSimpleModel(-1, 19475, -1011, "metroint3.dff", "metroint.txd");
 AddSimpleModel(-1, 19475, -1012, "metroint4.dff", "metroint.txd");
 AddSimpleModel(-1, 19475, -1400, "prison_toilet.dff", "prison_toilet.txd");
+AddSimpleModel(-1, 4873, -1401, "unionstwarc2_las.dff", "railway_las.txd");
+
+
 
 // Custom Skins
 AddCharModel(299, 20001, "lvpdpc2.dff", "lvpdpc2.txd");
