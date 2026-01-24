@@ -13,6 +13,7 @@ AddSimpleModel(-1, 19475, -1011, "metroint3.dff", "metroint.txd");
 AddSimpleModel(-1, 19475, -1012, "metroint4.dff", "metroint.txd");
 AddSimpleModel(-1, 19475, -1400, "prison_toilet.dff", "prison_toilet.txd");
 AddSimpleModel(-1, 4873, -1401, "unionstwarc2_las.dff", "railway_las.txd");
+AddSimpleModel(-1, 19475, -1013, "object.dff", "ujserverlogo.txd");
 
 
 
@@ -276,3 +277,6 @@ AddCharModel(56, 20256, "wfygov2.dff", "wfygov2.txd");
 AddCharModel(299, 20257, "wmogov1.dff", "wmogov1.txd");
 AddCharModel(299, 20258, "wmogov2.dff", "wmogov2.txd");
 AddCharModel(299, 20259, "wmytransp.dff", "wmytransp.txd");
+AddCharModel(299, 20260, "fbi.dff", "fbi.txd");
+AddCharModel(299, 20261, "swat.dff", "swat.txd");
+AddCharModel(299, 20262, "army.dff", "army.txd");
